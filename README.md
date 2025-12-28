@@ -7,7 +7,7 @@ The dashboards highlight that PM2.5 and PM10 are the most critical pollutants, a
 
 The insights support data-driven decisions related to product design, regional launch strategy, marketing timing, and R&D focus. This project demonstrates how environmental and health data can be used to guide practical business and product strategy decisions.
 
-## Table of Contents
+## Table of Content
 
 1. [About the Company](#about-the-company)
 2. [Client Requirement and Objective](#client-requirement-and-objective)
